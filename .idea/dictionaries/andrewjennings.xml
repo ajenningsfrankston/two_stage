@@ -4,10 +4,12 @@
       <w>autoencoder</w>
       <w>chunker</w>
       <w>crossentropy</w>
+      <w>efnb</w>
       <w>imread</w>
       <w>imshow</w>
       <w>isup</w>
       <w>relu</w>
+      <w>softmax</w>
     </words>
   </dictionary>
 </component>
