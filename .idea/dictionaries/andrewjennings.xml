@@ -2,8 +2,11 @@
   <dictionary name="andrewjennings">
     <words>
       <w>autoencoder</w>
+      <w>chunker</w>
+      <w>crossentropy</w>
       <w>imread</w>
       <w>imshow</w>
+      <w>isup</w>
       <w>relu</w>
     </words>
   </dictionary>
